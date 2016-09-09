@@ -1,0 +1,43 @@
+﻿<Window x:Class="CTSerialLogger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CTSerialLogger"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="377.149" Width="518.679" WindowStyle="None" MouseDown="windowDrag_event" ResizeMode="CanMinimize" Icon="graphics/CTLoggerIcon.png" Background="#FF252526" Foreground="White" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label2" Content="Serial Number Logger" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Width="518" FontFamily="Agency FB" FontSize="21.333" Foreground="#FF34FF00"/>
+        <TextBox x:Name="serialInputStartBox" KeyboardNavigation.TabIndex="0" HorizontalAlignment="Left" Height="23" Margin="175,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="1" Background="#FF333337" Foreground="White"/>
+        <ComboBox x:Name="prodSelectComboBox" HorizontalAlignment="Left" Margin="76,77,0,0" VerticalAlignment="Top" Width="120" TabIndex="0" SelectedIndex="0" DropDownClosed="prefixSet_comboBoxClosed" Foreground="Black" Background="#FF333337" BorderBrush="#FFACACAC">
+            <ComboBoxItem Content="Choose Product"/>
+            <ComboBoxItem Content="CX-1"/>
+            <ComboBoxItem Content="CX-2"/>
+            <ComboBoxItem Content="CX-2R"/>
+            <ComboBoxItem Content="Atom"/>
+            <ComboBoxItem Content="CXP (wireless)"/>
+            <ComboBoxItem Content="CXP (wired)"/>
+        </ComboBox>
+        <TextBox x:Name="serialInputEndBox" KeyboardNavigation.TabIndex="1" HorizontalAlignment="Left" Height="23" Margin="358,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="2" Foreground="White" Background="#FF333337"/>
+        <TextBox x:Name="prodInputRevisionTextBox" HorizontalAlignment="Left" Height="23" Margin="138,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="3" Background="#FF333337" Foreground="White"/>
+        <Label x:Name="label" Content="Revision:" HorizontalAlignment="Left" Margin="76,205,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <Label x:Name="serialStartLabel" Content="Start:" HorizontalAlignment="Left" Margin="215,134,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <Label x:Name="serialEndLabel" Content="End:" HorizontalAlignment="Left" Margin="405,134,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <DatePicker x:Name="prodCompleteDatePicker" HorizontalAlignment="Left" Margin="352,204,0,0" VerticalAlignment="Top" TabIndex="4" Foreground="Black" Background="#FF333337"/>
+        <Label x:Name="label3" Content="MFG Date:" HorizontalAlignment="Left" Margin="273,205,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <Button x:Name="insertDataButton" Content="Add" HorizontalAlignment="Left" Margin="224,331,0,0" VerticalAlignment="Top" Width="75" Click="insertDataButton_Click" Foreground="White" Background="#FF333337"/>
+        <RadioButton x:Name="singleItemInputRadio" Content="Single Unit" HorizontalAlignment="Left" Margin="227,71,0,0" VerticalAlignment="Top" Click="singleUnitRadio_click" Foreground="White" Background="White"/>
+        <RadioButton x:Name="multiItemInputRadio" Content="Multiple Units" HorizontalAlignment="Left" Margin="227,91,0,0" VerticalAlignment="Top" Click="multiUnitRadio_click" IsChecked="True" Foreground="White"/>
+        <Label x:Name="inputDataLabel" Content="Enter Serial Range: " HorizontalAlignment="Left" Margin="26,153,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <Label x:Name="serialPrefixLabel1" Content="" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="138,153,0,0" VerticalAlignment="Top" Width="37" Foreground="White"/>
+        <Label x:Name="serialPrefixLabel2" Content="" HorizontalContentAlignment="Right" HorizontalAlignment="Left" Margin="321,152,0,0" VerticalAlignment="Top" Width="37" Foreground="White"/>
+        <Label x:Name="label1" Content="to" HorizontalAlignment="Left" Margin="300,153,0,0" VerticalAlignment="Top" Foreground="#FFA8A8A8"/>
+        <Button x:Name="button" Content="X" HorizontalAlignment="Left" Margin="493,0,0,0" VerticalAlignment="Top" Width="25" Height="21" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="?" HorizontalAlignment="Left" Margin="437,0,0,0" VerticalAlignment="Top" Width="25" Height="21" Click="button_Copy_Click"/>
+        <Button x:Name="button_Copy1" Content="_" HorizontalAlignment="Left" Margin="465,0,0,0" VerticalAlignment="Top" Width="25" Height="21" Click="button_Copy1_Click"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="2" Margin="91,33,0,0" VerticalAlignment="Top" Width="346"/>
+        <ProgressBar x:Name="progBar" HorizontalAlignment="Left" Height="13" Margin="75,358,0,0" VerticalAlignment="Top" Width="386"/>
+        <TextBox x:Name="NotestextBox" HorizontalAlignment="Left" Height="60" Margin="65,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399"/>
+        <Label x:Name="label4" Content="Notes:" HorizontalAlignment="Left" Margin="240,240,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFA8A8A8"/>
+    </Grid>
+</Window>

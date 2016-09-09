@@ -1,0 +1,42 @@
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.pdb
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.g.cs
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\App.g.cs
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.cache
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.lref
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.baml
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.g.resources
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.exe
+c:\users\chris\documents\visual studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csprojResolveAssemblyReference.cache
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe.config
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.exe
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.pdb
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.pdb
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csprojResolveAssemblyReference.cache
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.g.cs
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\App.g.cs
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.cache
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.lref
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.baml
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.g.resources
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.Properties.Resources.resources
+W:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csproj.GenerateResource.Cache
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe.config
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.exe
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.pdb
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.pdb
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csprojResolveAssemblyReference.cache
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.g.cs
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\App.g.cs
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.cache
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger_MarkupCompile.lref
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.baml
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.g.resources
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.Properties.Resources.resources
+Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csproj.GenerateResource.Cache
