@@ -40,3 +40,6 @@ Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\MainWindow.baml
 Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.g.resources
 Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.Properties.Resources.resources
 Z:\Root\VS\Apps\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.csproj.GenerateResource.Cache
+D:\Projects\CT\CTSerialNumberLogger\VS\CTSerialLogger\CTSerialLogger\bin\Debug\CTSerialLogger.exe.config
+D:\Projects\CT\CTSerialNumberLogger\VS\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.exe
+D:\Projects\CT\CTSerialNumberLogger\VS\CTSerialLogger\CTSerialLogger\obj\Debug\CTSerialLogger.pdb

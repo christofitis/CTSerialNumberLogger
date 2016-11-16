@@ -330,7 +330,7 @@ namespace CTSerialLogger
 
         private void button_Copy_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Serial Number Logger\nVersion: 1.01\nCreated by: Chris Bryant\n©2016", "About");
+            MessageBox.Show("Serial Number Logger\nVersion: 1.02\nCreated by: Chris Bryant\n©2016", "About");
         }
     }
 
